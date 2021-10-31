@@ -1,1 +1,1 @@
-git log --pretty=%H -5^C
+git log --pretty=%H -5
